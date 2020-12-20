@@ -1,4 +1,4 @@
-heba Test{
+class{
 	
 		public static void printHelloITI(){
 			System.out.println("Hello ITI");
