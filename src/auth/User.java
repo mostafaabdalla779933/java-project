@@ -11,7 +11,7 @@ package auth;
  */
 public class User {
     
-    int id;
+    int uId;
     String name;
     
 }
