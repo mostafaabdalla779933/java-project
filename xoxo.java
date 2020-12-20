@@ -12,5 +12,12 @@ public class helloiti {
 	
     
   }
+  public static void main(String[] args) {
+
+
+	System.out.println("helloiti");
+	
+    
+  }
 
 }
