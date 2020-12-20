@@ -10,8 +10,8 @@ package auth;
  * @author yasmineghazy
  */
 public class User {
-    
-    int id;
-    String name;
-    
+    int userId;
+
+    String userName; 
+
 }
