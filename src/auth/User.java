@@ -11,5 +11,5 @@ package auth;
  */
 public class User {
     int userId;
-    String name; 
+    String uName; 
 }
